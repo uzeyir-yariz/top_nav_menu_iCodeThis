@@ -4,7 +4,7 @@
 
 > bu bir iCodeThis projesidir. Bu projenin amacı bir sitenin menüsünü yapmaktır.
 
-Bu proje [iCodeThis](https://www.icodethis.com/challenges/157) projesidir
+Bu proje [iCodeThis](https://www.icodethis.com/challenges/157) projesidir. [code pen](https://codepen.io/uzeyir-yariz/pen/dygogav)
 
 <details>
 <summary>görsel</summary>
@@ -20,7 +20,7 @@ Bu proje [iCodeThis](https://www.icodethis.com/challenges/157) projesidir
 
 > this is an iCodeThis project. The purpose of this project is to make a site's menu
 
-This project is [iCodeThis](https://www.icodethis.com/challenges/157) project
+This project is [iCodeThis](https://www.icodethis.com/challenges/157) project. [code pen](https://codepen.io/uzeyir-yariz/pen/dygogav)
 
 <details>
 <summary>picture</summary>
